@@ -1,0 +1,9 @@
+{
+    "name": string,
+    "xuid": string,
+    "deviceId": string,
+    "uuid": string,
+    "evidences": string[]
+}
+
+evidencesはURL
